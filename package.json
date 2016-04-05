@@ -1,0 +1,11 @@
+{
+  "name": "home_grown_garden_app",
+  "version": "1.0.0",
+  "description": "Prime Digital Academy Solo Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron R McGrath",
+  "license": "ISC"
+}
